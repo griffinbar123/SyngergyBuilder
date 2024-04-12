@@ -1,0 +1,9 @@
+[submodule "synergy-builder-server"]
+	path = synergy-builder-server
+	url = git@github.com:griffinbar123/synergy-builder-server.git
+[submodule "synergy-builder-frontend"]
+	path = synergy-builder-frontend
+	url = git@github.com:griffinbar123/synergy-builder-frontend.git
+[submodule "synergy-builder-training"]
+	path = synergy-builder-training
+	url = git@github.com:griffinbar123/synergy-builder-training.git
