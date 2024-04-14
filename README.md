@@ -1,4 +1,4 @@
-Website URL: [https://syngery-builder-1y5fz8fwy-griffinbar123s-projects.vercel.app](https://syngergy-builder.vercel.app/)
+Website URL: https://syngergy-builder.vercel.app/
 
 
 Machine Learning Project Proposal
